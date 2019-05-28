@@ -1,7 +1,7 @@
 # A learning project : drawing keyboard smudges 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
-![alt text](https://github.com/benjeems/R-Great-Circles/blob/master/images/heat_lines/USA_unweighted.png "map")
+![alt text](https://github.com/benjeems/keyboard_draw/blob/master/all_3_500.jpg "keyboard smudges")
 
 This is just a learning project, created simply to explore some of the import, exports and control structures of the “Processing” coding language. For full graphics, see https://dataviz.com.au/2018/05/16/animating-keyboard-smudges-a-discovery-project/
 
