@@ -1,4 +1,4 @@
-# A learning project : drawing keyboard smudges 
+# A Processing language learning project : drawing keyboard smudges 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 ![alt text](https://github.com/benjeems/keyboard_draw/blob/master/all_3_500.jpg "keyboard smudges")
